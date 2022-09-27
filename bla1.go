@@ -1,4 +1,4 @@
-package calculator
+package gopublicexample
 
 var Version = "1.0"
 
